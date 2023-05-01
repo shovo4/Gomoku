@@ -1,5 +1,5 @@
 ### GOMOKU
-
+** Check https://github.com/shovo4/Gomoku/blob/main/homework.pdf for more info about this project
 
 ![homework](https://user-images.githubusercontent.com/58551093/235548426-288701ac-66bc-4e2c-83d2-2d65e476f809.jpg)
 ![homework2](https://user-images.githubusercontent.com/58551093/235548698-7684466c-2d33-4166-b82f-30a4b8e862e6.jpg)
